@@ -1,5 +1,5 @@
-# Day 16 Python Programming
-# August 16, 2024
+# Day 17 Python Programming
+# August 17, 2024
 
 # Define a simple list with integers
 array_1 = [1, 2, 7]
